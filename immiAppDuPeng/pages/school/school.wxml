@@ -1,0 +1,14 @@
+<!--pages/school/school.wxml-->
+<view class="school">
+  <view class="image">
+   <image  src="../../images/school/feicheng01.jpg" mode="aspectFill"></image>
+  </view>
+
+  <view class="intro">
+      <view class="schoolName">{{uni_info.university_name}}</view>
+      <view class="rank">rank:{{uni_info.rank}}</view>
+      <view class="address">address:{{uni_info.address}}</view>
+      <view class="content">{{uni_info.desc}}</view>  
+  </view>
+</view>
+

@@ -1,0 +1,18 @@
+{
+  "pages":[ 
+    "pages/index/index", 
+    "pages/evaluate/evaluate",
+    "pages/result/result",            
+    "pages/aboutus/aboutus",       
+    "pages/school/school",
+    "pages/eb1a/eb1a",
+    "pages/eb1b/eb1b",
+    "pages/niw/niw"
+      ],
+  "window":{
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#3fa2ff",
+    "navigationBarTitleText": "留学移民不求人",
+    "navigationBarTextStyle":"white"
+  }
+}

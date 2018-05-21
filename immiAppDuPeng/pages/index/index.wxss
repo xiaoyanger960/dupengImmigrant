@@ -1,0 +1,100 @@
+/*轮播图*/
+swiper{
+  width:100%;
+  height:250px;
+}
+.slide-image {
+  width: 100%;
+  height: 250px;
+}
+
+.tab{
+  width:100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  border-bottom: 1rpx solid #eee;
+  margin-bottom: 16rpx;
+  background-color: #fff;
+
+}
+.tab-block{
+  width:126rpx;
+  height:140rpx;
+  display: flex;
+  flex-direction: column;
+  font-size: 24rpx;
+  color:#333333;
+  line-height: 42rpx;
+  align-items: center;
+  padding-top: 40rpx;
+  position: relative;
+
+}
+.service{
+  position: absolute;
+  top:0;
+  left:0;
+  width:126rpx;
+  height:188rpx;
+  opacity: 0;
+}
+.tab-block image{
+  width:77rpx;
+  height: 77rpx;
+
+}
+.change{
+  opacity: .4;
+}
+.header-warp{
+  width:94%;
+  padding:0 3%;
+  padding-top: 15rpx;
+  padding-bottom: 15rpx;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 30rpx;
+  align-items:flex-start;
+  color:#3fa2ff;
+  background-color: #fff;
+}
+.line{
+  width:246rpx;
+  height:25rpx;
+  border-bottom: 1rpx solid #3fa2ff;
+}
+
+/* 移民类型 */
+.content{
+  width:94%;
+  padding:0 3%;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+}
+.immi-wrap{
+  width:100%;
+  display: flex;
+  flex-direction: column;
+  padding-top:20rpx;
+  box-shadow: 3px 3px 10px rgba(0,0,0,0.2);
+  border-radius: 12rpx;
+  margin-bottom: 50rpx;
+}
+.immi-wrap image{
+  width:100%;
+  height:370rpx;
+}
+.immi-text{
+  width:100%;
+  padding:20rpx;
+  padding-left: 0;
+  padding-right: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  font-size: 24rpx;
+  color:#969696;
+}

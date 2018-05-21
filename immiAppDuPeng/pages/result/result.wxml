@@ -1,0 +1,12 @@
+<!--pages/result/result.wxml-->
+<view class="container">
+    <icon type="{{iconType}}" size="60" color="{{color}}" class="icon"/>
+    <view class="result">评估结果</view>
+
+    <view wx:if="{{fit}}">根据初步评估结果，您的条件符合该移民类型的需求，您可以联系客服咨询更多！</view>
+    <view wx:else >根据初步评估结果，您的条件暂不符合该移民类型的需求，您可以联系客服咨询更多！</view>
+  
+    <view class="btn-area">
+      <button bindtap="bindReturn">返回首页</button>
+    </view>
+</view>

@@ -1,0 +1,67 @@
+<!--pages/eb1a/eb1a.wxml-->
+<view class="container">
+  <view class="wrap">
+     <view class="header">
+      <view class="line"></view>
+      <view class="header-real">项目介绍</view>     
+     </view>
+     <view class="cont">EB1A（美国杰出人才移民）是美国移民中最难的移民方式，但是这类移民方式的优点也是非常突出的，时间短，批准快（正常批准为6-8个月，加急为15个工作日，美捷达移民创造最高纪录为4个工作日），第一类优先，没有排期！一步拿到全家永久绿卡，无须转换！绿卡标有“杰出人才”字样，工作生活皆有优势，子女可优先就读美国名校等！</view>
+  </view>
+
+  <view class="wrap">
+     <view class="header">
+      <view class="line"></view>
+      <view class="header-real">项目优势</view>     
+     </view>
+     <view class="cont">
+      <view>1.【领域广泛】 包括体育、教育、艺术、科学、商业等领域的人才，均可以申请美国EB1杰出人才移民项目，只要移民申请人个人条件符合标准，就可以通过移民审核</view>
+      <view>2. 【无需雇主】 整个申请过程都无需美国雇主出具任何担保或证明文件</view>
+      <view>3. 【全家受益】 本人获得批准，其配偶及21周岁以下未婚亲生或收养子女均可同时申请绿卡。</view>
+      <view>4. 【就读名校】 子女可优先就读美国名校</view>
+      <view>5. 【永久绿卡】“杰出人才”绿卡为永久正式绿卡，没有后遗症。</view>
+      <view>6. 【周期最短】 移民速度用时最短，正常只需几个月的审理时间就可获得批准。</view>
+      <view>7. 【配额最多】 “杰出人才”移民属第一类优先移民，全年配额一万个，不用等待排期</view>
+      <view>8. 【无需资产】 申请没有资产投入要求。</view>
+      <view>9. 【条件宽松】 对申请人没有年龄和学历限制。</view>
+      <view>10. 【无移民监】 无需坐漫长的移民监。</view>
+      <view>11. 【身份优势】 绿卡上标有通过“杰出人才”方式引进美国，工作、生活皆有优势。</view>
+      <view></view>
+     
+    </view>
+  </view>
+
+  <view class="wrap">
+     <view class="header">
+      <view class="line"></view>
+      <view class="header-real">申请条件</view>     
+     </view>
+     <view class="cont">美国的移民法从如下十个方面衡量申请人是否符合“杰出人才”标准，具备其中的三条就可以申请“杰出人才”移民！
+        <view>（1）申请人获得过国际奖或国家一级奖；</view>
+        <view>（2）是著名的学术团体成员；</view>
+        <view>（3）专业杂志报刊上有对申请人及作品的评论或报道；</view>
+        <view>（4）在比赛中当评判；</view>
+        <view>（5）在本领域中与众不同的特殊贡献；</view>
+        <view>（6）专业杂志报刊发表作品；</view>
+        <view>（7）参加国际表演或展览；</view>
+        <view>（8）申请人在所属的领域起到领导作用；</view>
+        <view>（9）比同行收入高</view>
+        <view>（10）商业上获得很大成功。</view>
+     </view>
+  </view>
+
+  <view class="wrap">
+     <view class="header">
+      <view class="line"></view>
+      <view class="header-real">申请流程</view>   
+     </view>
+     <view class="cont">
+        <view>1、 评估</view>
+        <view>2、 签约</view>
+        <view>3、 资料论证及翻译</view>
+        <view>4、 递交美国移民局</view>
+        <view>5、 获得批准函</view>
+        <view>6、 广州领事馆面谈，获得移民签证</view>
+        <view>7、 登陆美国，全家获得永久绿卡</view>
+    </view>
+  </view>
+</view>

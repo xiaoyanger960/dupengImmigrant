@@ -1,0 +1,67 @@
+
+<!--首页轮播-->
+<swiper indicator-dots="{{indicatorDots}}" autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}">
+  <block wx:for="{{imgUrls}}" wx:key="id">
+    <swiper-item>
+          <view>
+            <image src="{{item}}" class="slide-image" width="100%" height="300"  />
+           </view>
+    </swiper-item>
+  </block>
+</swiper>
+
+
+<view class="tab">
+  <view class="tab-block" hover-class='change' bindtap='know'>
+    <image src="../../images/tab/know.png"></image>
+    <view>移民类型</view>  
+  </view>
+  <view class="tab-block"  hover-class='change' bindtap='evaluate'>
+    <image src="../../images/tab/evaluate.png"></image>
+    <view>自助评估</view>  
+  </view>
+  <view class="tab-block"  hover-class='change' bindtap='service'>
+    <image src="../../images/tab/service.png"></image>
+    <view>在线客服</view>  
+    <button class="service" open-type="contact" session-from="weapp"></button> 
+  </view>
+  <view class="tab-block" bindtap='about'  hover-class='change'>
+    <image src="../../images/tab/aboutUs.png"></image>
+    <view>关于我们</view>  
+  </view>
+</view>
+
+<view class="header-warp">
+  <view class="line"></view>
+  <view>移民项目</view>
+  <view class="line"></view>
+</view>
+
+
+<view class="content">
+    <view class="immi-wrap" hover-class='change' bindtap='eb1a' >
+      <image src="../../images/immi/immi01.jpg"></image>
+      <view class="immi-text">
+        <view>项目名称：美国杰出人才移民</view>
+        <view>移民类型：EB1A</view>
+      </view>
+    </view>
+    <view class="immi-wrap" hover-class='change' bindtap='eb1b' >
+      <image src="../../images/immi/immi02.jpg"></image>
+      <view class="immi-text">
+        <view>项目名称：美国杰出人才移民</view>
+        <view>移民类型：EB1B</view>
+      </view>
+    </view>
+    <view class="immi-wrap" hover-class='change' bindtap='niw' >
+      <image src="../../images/immi/immi03.jpg"></image>
+      <view class="immi-text">
+        <view>项目名称：国家利益的劳动许可豁免</view>
+        <view>移民类型：NIW</view>
+      </view>
+    </view>
+
+</view>
+
+
+

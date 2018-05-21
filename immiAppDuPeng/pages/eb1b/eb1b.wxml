@@ -1,0 +1,40 @@
+<!--pages/eb1b/eb1b.wxml-->
+<!--pages/eb1a/eb1a.wxml-->
+<view class="container">
+  <view class="wrap">
+     <view class="header">
+      <view class="line"></view>
+      <view class="header-real">项目介绍</view>     
+     </view>
+     <view class="cont">EB1B美国移民适用于在某些科学或学术领域内，享有国际声誉的杰出教授或研究人员的移民申请。与EB-1A申请无需雇主支持不同，EB-1B必须有雇主支持才能申请。因此适合EB1B申请的人群相对比较少，但是申请人一旦符合EB1B的要求就能迅速移民美国，下面美捷达移民为大家详细介绍EB1B申请要求</view>
+  </view>
+
+  <view class="wrap">
+     <view class="header">
+      <view class="line"></view>
+      <view class="header-real">申请条件</view>     
+     </view>
+     <view class="cont">
+        <view>获得永久性研究职位或者终身教学职位的承诺，并由雇主支持申请;</view>
+        <view>至少三年的相关研究经验或者教学经验;</view>
+        <view>在某一科学或学术领域获得国际性认可，有一定的个人成就国际性知名度</view>
+     </view>
+  </view>
+
+  <view class="wrap">
+     <view class="header">
+      <view class="line"></view>
+      <view class="header-real">特殊条件</view>   
+     </view>
+     <view class="cont">
+        <view>申请人必须需要有受雇之美国公司提出申请，但不需要经过劳工部申请劳工认证程序。申请人至少需要有三年以上的相关教学或研究经验，并且至少满足以下六条中的两条</view>
+        <view>①. 申请人获得过国际性的奖项，并获得国际公认在学术界具有杰出地位者;</view>
+        <view>②. 申请人为国际学术机构的会员，且此学术机构的会员入会标准必须有杰出的成就;</view>
+        <view>③. 曾获得报章媒体报道申请人的成就;</view>
+        <view>④. 申请人是学术机构的评审会员或重要干部;</view>
+        <view>⑤. 申请人是重要科学研究的主要作者，并在专业领域有独到的见解或成就;</view>
+        <view>⑥. 申请人曾在专业杂志或国际著名专业刊物发表文章、论文、作品、书籍等。</view>
+    </view>
+  </view>
+</view>
+

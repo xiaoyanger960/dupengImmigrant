@@ -1,0 +1,80 @@
+{
+	"description": "项目配置文件。",
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"libVersion": "1.9.98",
+	"appid": "wxfd26aa33af88312b",
+	"projectname": "immiDuPeng",
+	"isGameTourist": false,
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": -1,
+			"list": [
+				{
+					"id": -1,
+					"name": "搜索",
+					"pathName": "pages/search/search",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "用户个人信息",
+					"pathName": "pages/perInfo/perInfo",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "评估",
+					"pathName": "pages/evaluate/evaluate",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "订单列表页面",
+					"pathName": "pages/user/dingdan",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "关于我们",
+					"pathName": "pages/aboutus/aboutus",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "评估",
+					"pathName": "pages/evaluate/evaluate",
+					"query": ""
+				},
+				{
+					"id": 6,
+					"name": "eb1a介绍",
+					"pathName": "pages/eb1a/eb1a",
+					"query": ""
+				}
+			]
+		}
+	}
+}
